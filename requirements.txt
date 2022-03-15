@@ -14,7 +14,7 @@ folium >= 0.12.1
 pickle5 >=0.0.12
 wntr >=0.4.1
 sockets >= 1.0.0
-suffer
+suffer==1.0
 pytagora
 noblesse
 aryi
