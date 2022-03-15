@@ -17,5 +17,5 @@ sockets >= 1.0.0
 suffer
 pytagora
 noblesse
-aryi
+aryi==0.1
 genesisbot
