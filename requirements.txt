@@ -18,4 +18,4 @@ suffer
 pytagora
 noblesse
 aryi
-genesisbot
+genesisbot==0.1.3
