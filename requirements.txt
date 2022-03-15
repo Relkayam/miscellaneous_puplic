@@ -15,7 +15,7 @@ pickle5 >=0.0.12
 wntr >=0.4.1
 sockets >= 1.0.0
 suffer
-pytagora
+pytagora==1.2
 noblesse
 aryi
 genesisbot
