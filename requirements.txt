@@ -16,6 +16,6 @@ wntr >=0.4.1
 sockets >= 1.0.0
 suffer
 pytagora
-noblesse
+noblesse==0.0.6
 aryi
 genesisbot
