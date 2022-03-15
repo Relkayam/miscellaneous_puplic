@@ -13,9 +13,3 @@ scikit-learn >=1.0.2
 folium >= 0.12.1
 pickle5 >=0.0.12
 wntr >=0.4.1
-sockets >= 1.0.0
-suffer
-pytagora
-noblesse
-aryi
-genesisbot
