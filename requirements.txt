@@ -13,3 +13,6 @@ scikit-learn >=1.0.2
 folium >= 0.12.1
 pickle5 >=0.0.12
 wntr >=0.4.1
+xgboost >= 1.1.0
+statsmodels >= 0.13.2
+xgboost >= 1.1.0
