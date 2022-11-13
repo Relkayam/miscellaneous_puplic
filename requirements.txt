@@ -34,4 +34,4 @@ tomli
 tomlkit
 typing_extensions
 tzdata
-wrapt
+wrapt==1.14.1
