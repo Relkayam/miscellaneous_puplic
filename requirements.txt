@@ -19,7 +19,7 @@ xgboost >= 1.1.0
 asgiref
 astroid
 colorama
-dill
+dill==0.3.6
 isort
 lazy_object_proxy
 mccabe
