@@ -29,7 +29,7 @@ pylint_plugin_utils
 pylint
 pytz
 PyYAML
-sqlparse
+sqlparse==0.4.3
 tomli
 tomlkit
 typing_extensions
