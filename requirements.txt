@@ -21,7 +21,7 @@ astroid
 colorama
 dill
 isort
-lazy_object_proxy
+lazy_object_proxy==1.8.0
 mccabe
 platformdirs
 pylint_django
