@@ -32,6 +32,6 @@ PyYAML
 sqlparse
 tomli
 tomlkit
-typing_extensions
+typing_extensions==4.4.0
 tzdata
 wrapt
