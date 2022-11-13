@@ -28,7 +28,7 @@ pylint_django
 pylint_plugin_utils
 pylint
 pytz
-PyYAML
+PyYAML==6.0
 sqlparse
 tomli
 tomlkit
