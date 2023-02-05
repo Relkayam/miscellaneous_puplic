@@ -33,6 +33,6 @@ sqlparse
 tomli
 tomlkit
 typing_extensions
-pip-system-certs
+pip-system-certs==4.0
 tzdata
 wrapt
