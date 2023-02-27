@@ -35,4 +35,4 @@ tomlkit
 typing_extensions
 pip-system-certs
 tzdata
-wrapt
+wrapt==1.15.0
