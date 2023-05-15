@@ -25,7 +25,7 @@ lazy_object_proxy
 mccabe
 platformdirs
 pylint_django
-pylint_plugin_utils
+pylint_plugin_utils==0.8.1
 pylint
 pytz
 PyYAML
