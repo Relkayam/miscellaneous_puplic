@@ -16,7 +16,7 @@ wntr >=0.4.1
 xgboost >= 1.1.0
 statsmodels >= 0.13.2
 xgboost >= 1.1.0
-asgiref
+asgiref==3.7.2
 astroid
 colorama
 dill
