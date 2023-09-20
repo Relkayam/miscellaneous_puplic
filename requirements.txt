@@ -30,7 +30,7 @@ pylint
 pytz
 PyYAML
 sqlparse
-tomli
+tomli==2.0.1
 tomlkit
 typing_extensions
 pip-system-certs
