@@ -27,7 +27,7 @@ platformdirs
 pylint_django
 pylint_plugin_utils
 pylint
-pytz
+pytz==2024.1
 PyYAML
 sqlparse
 tomli
