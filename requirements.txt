@@ -26,7 +26,7 @@ mccabe
 platformdirs
 pylint_django
 pylint_plugin_utils
-pylint
+pylint==3.1.0
 pytz
 PyYAML
 sqlparse
