@@ -32,7 +32,7 @@ PyYAML
 sqlparse
 tomli
 tomlkit
-typing_extensions
+typing_extensions==4.12.2
 pip-system-certs
 tzdata
 wrapt
