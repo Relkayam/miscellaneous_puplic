@@ -31,7 +31,7 @@ pytz
 PyYAML
 sqlparse
 tomli
-tomlkit
+tomlkit==0.13.1
 typing_extensions
 pip-system-certs
 tzdata
