@@ -158,7 +158,7 @@ rfc3986-validator==0.1.1
 rich==13.7.1
 rpds-py==0.20.0
 rsa==4.9
-scikit-learn==1.4.2
+scikit-learn==1.5.2
 scipy==1.14.1
 seaborn==0.13.2
 Send2Trash==1.8.3
