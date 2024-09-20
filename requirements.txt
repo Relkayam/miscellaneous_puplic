@@ -83,7 +83,7 @@ jupyterlab==4.2.4
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.3
 kaleido==0.2.1
-keras==3.4.1
+keras==3.5.0
 kiwisolver==1.4.5
 libclang==18.1.1
 lz4==4.3.3
