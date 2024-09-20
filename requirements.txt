@@ -37,7 +37,7 @@ dnspython==2.6.1
 dtale==3.13.1
 email_validator==2.2.0
 et-xmlfile==1.1.0
-executing==2.0.1
+executing==2.1.0
 fastapi==0.111.1
 fastapi-cli==0.0.4
 fastjsonschema==2.20.0
