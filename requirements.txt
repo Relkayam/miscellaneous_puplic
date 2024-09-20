@@ -113,7 +113,7 @@ opt-einsum==3.3.0
 optree==0.12.1
 overrides==7.7.0
 packaging==24.0
-pandas==2.2.2
+pandas==2.2.3
 pandocfilters==1.5.1
 parso==0.8.4
 patsy==0.5.6
