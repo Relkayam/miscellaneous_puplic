@@ -46,7 +46,7 @@ Flask==2.2.5
 Flask-Compress==1.15
 flask-ngrok==0.0.25
 flatbuffers==24.3.25
-fonttools==4.51.0
+fonttools==4.53.1
 fqdn==1.5.1
 fsspec==2024.6.1
 future==1.0.0
