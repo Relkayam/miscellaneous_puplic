@@ -34,7 +34,7 @@ debugpy==1.8.5
 decorator==5.1.1
 defusedxml==0.7.1
 dnspython==2.6.1
-dtale==3.13.1
+dtale==3.14.1
 email_validator==2.2.0
 et-xmlfile==1.1.0
 executing==2.0.1
