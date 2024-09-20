@@ -107,7 +107,7 @@ networkx==3.3
 nolds==0.5.2
 notebook==7.2.1
 notebook_shim==0.2.4
-numpy==1.26.4
+numpy==2.1.1
 openpyxl==3.1.2
 opt-einsum==3.3.0
 optree==0.12.1
