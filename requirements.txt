@@ -138,7 +138,7 @@ PyPDF2==3.0.1
 PyQt5==5.15.11
 PyQt5-Qt5==5.15.2
 PyQt5_sip==12.15.0
-PySide6==6.7.2
+PySide6==6.7.3
 PySide6_Addons==6.7.2
 PySide6_Essentials==6.7.2
 python-dateutil==2.9.0.post0
