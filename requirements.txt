@@ -172,7 +172,7 @@ soupsieve==2.6
 squarify==0.4.4
 stack-data==0.6.3
 starlette==0.37.2
-statsmodels==0.14.2
+statsmodels==0.14.4
 streamlit==1.37.1
 strsimpy==0.2.1
 sympy==1.13.2
