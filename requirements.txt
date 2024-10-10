@@ -30,7 +30,7 @@ dash-html-components==2.0.0
 dash-table==5.0.0
 dash_colorscales==0.0.4
 dash_daq==0.5.0
-debugpy==1.8.5
+debugpy==1.8.7
 decorator==5.1.1
 defusedxml==0.7.1
 dnspython==2.6.1
