@@ -86,7 +86,7 @@ kaleido==0.2.1
 keras==3.4.1
 kiwisolver==1.4.5
 libclang==18.1.1
-lz4==4.3.3
+lz4==4.4.4
 Markdown==3.6
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
