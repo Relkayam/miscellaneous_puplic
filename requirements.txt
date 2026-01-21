@@ -128,7 +128,7 @@ PuLP==2.8.0
 pure_eval==0.2.3
 pyarrow==17.0.0
 pyasn1==0.6.0
-pycparser==2.22
+pycparser==3.0
 pydantic==2.8.2
 pydantic_core==2.20.1
 pydeck==0.9.1
