@@ -91,7 +91,7 @@ Markdown==3.6
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 matplotlib==3.9.0
-matplotlib-inline==0.1.7
+matplotlib-inline==0.2.2
 mdurl==0.1.2
 missingno==0.5.2
 mistune==3.0.2
