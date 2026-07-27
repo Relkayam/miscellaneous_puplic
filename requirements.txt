@@ -40,7 +40,7 @@ et-xmlfile==1.1.0
 executing==2.0.1
 fastapi==0.111.1
 fastapi-cli==0.0.4
-fastjsonschema==2.20.0
+fastjsonschema==2.22.1
 filelock==3.15.4
 Flask==2.2.5
 Flask-Compress==1.15
